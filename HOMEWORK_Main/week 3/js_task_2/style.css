@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 40px;
+}
+
+#colorBox {
+    width: 300px;
+    height: 200px;
+    background-color: #cccccc;
+    margin-bottom: 20px;
+    transition: background-color 0.5s ease;
+}
+
+button {
+    margin-left: 10px;
+    padding: 6px 12px;
+    cursor: pointer;
+}
